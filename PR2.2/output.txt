@@ -1,0 +1,10 @@
+while : KEYWORD
+5 : NUMBER
+do : KEYWORD
+skip : KEYWORD
+endwhile : KEYWORD
+AST: 
+
+WHILE-LOOP
+    5 : NUMBER
+    skip : KEYWORD

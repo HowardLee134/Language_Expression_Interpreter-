@@ -1,0 +1,13 @@
+4 : NUMBER
++ : SYMBOL
+3 : NUMBER
+- : SYMBOL
+2 : NUMBER
+AST: 
+
++ : SYMBOL
+    4 : NUMBER
+    - : SYMBOL
+        3 : NUMBER
+        2 : NUMBER
+Output: 5

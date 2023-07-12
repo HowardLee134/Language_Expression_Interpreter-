@@ -1,0 +1,3 @@
+in command line(windows11 g++ (GCC) 9.2.0):
+type in: g++ scanner.cpp, to complie the program
+then type in: a.exe Input.txt Output.txt, to execute the program
